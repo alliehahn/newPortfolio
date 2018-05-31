@@ -1,0 +1,12 @@
+body {
+    background-image: url("ocean.jpg");
+    text-align: center;
+}
+
+.type {
+    color:#fff;
+    padding-top: 150px;
+    font-family: 'Song Myung', serif;
+    font-size: 70px;
+  }
+  

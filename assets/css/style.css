@@ -1,0 +1,63 @@
+body {
+    background-image: url("../images/fog.jpg");
+}
+
+.type {
+    color: rgb(78, 75, 75);
+    padding-top: 200px;
+    font-family: 'Song Myung', serif;
+    font-size: 70px;
+    text-align: center;
+  }
+  
+.myNav {
+    background-color: darkolivegreen;
+    opacity: 0.7;
+    color: black;
+}
+
+.nav-link {
+    color: black;
+    font-family: 'Song Myung', serif;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+a:hover {
+    opacity: 1;
+    color: bisque;
+}
+
+.who {
+    color: rgb(78, 75, 75);
+    padding-top: 10px;
+    font-family: 'Song Myung', serif;
+    font-size: 35px;
+    padding-left: 30px;
+}
+
+.about {
+    color: rgb(78, 75, 75);
+    padding-left: 30px;
+}
+
+.aboutPic {
+    width: 275px;
+    border: 1px solid gray;
+}
+
+.card-pic {
+    padding-top: 5px;
+}
+
+.cardiT {
+    font-size: 14px;
+}
+
+.bodycard {
+    text-align: center;
+}
+
+.cards {
+    padding-left: 30px;
+}
+
